@@ -1,5 +1,0 @@
-Források:
-- https://www.w3schools.com/jsref/dom_obj_select.asp
-- http://thenewcode.com/831/HTML5-Responsive-Image-Slider-With-Captions
-- https://www.w3schools.com/html/html_classes.asp
-- https://www.vg.hu/nemzetkozi-gazdasag/2022/05/rekord-magasra-ugrott-az-euroovezeti-inflacio-az-embargo-nem-segit
